@@ -1,5 +1,5 @@
 # Layer rotation: a surprisingly powerful indicator of generalization in deep networks?
-This repository contains the code used to create all the figures of our paper "Layer rotation: a surprisingly powerful indicator of generalization in deep networks?", by Simon Carbonnelle and Christophe De Vleeschouwer, available on arXiv and presented during the ICML 2019 workshop "Identifying and Understanding Deep Learning Phenomena".
+This repository contains the code used to create all the figures of our paper "Layer rotation: a surprisingly powerful indicator of generalization in deep networks?", by Simon Carbonnelle and Christophe De Vleeschouwer, available [on arXiv](https://arxiv.org/abs/1806.01603v2) and presented during the ICML 2019 workshop "Identifying and Understanding Deep Learning Phenomena".
 
 ### Code structure
 Code structure tries to follow the structure of the paper. I.e.:
